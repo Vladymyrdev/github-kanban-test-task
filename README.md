@@ -4,7 +4,7 @@
 - React for the front-end (only hooks, no classes).
 - Back-end framework which is suitable for you.
 - Typescript is a must for both front-end and back-end (frameworks, which doesn't support Typescript are not allowed).
-- You are allowed to use full-stack frameworks (like NextJS).
+- You are allowed to use for backend choice from JS, TS, express or NestJs.
 - Use MongoDB or PostgreSQL for data storage.
 > Stack requirements mentioned above are obligatory to follow. Other technologies and patterns are free of your choice.  
 
@@ -21,7 +21,7 @@
 What will we assess:
 - workability: how your application works;
 - project structure: how you structure your files;
-- code quality: how you write clean, readable code (feel free to install and use ESLint and Prettier);
+- code quality: how you write clean, readable code (feel free to install and use ESLint, Prettier and spell checker (VS Code extension) are required);
 - knowledge of technologies and their ecosystem: how you compose and use libraries together;
 - testing: how you can test your code;
 
