@@ -2,6 +2,7 @@
 
 ## Tech stack 
 - React for the front-end (only hooks, no classes).
+- For front-end part state manager for data (redux, redux-toolkit or any other which you prefer).
 - Back-end framework which is suitable for you.
 - Typescript is a must for both front-end and back-end (frameworks, which doesn't support Typescript are not allowed).
 - You are allowed to use for backend choice from JS, TS, express or NestJs.
