@@ -3,11 +3,15 @@
 ## Tech stack 
 - React for the front-end (only hooks, no classes).
 - For front-end part state manager for data (redux, redux-toolkit or any other which you prefer).
-- Back-end framework which is suitable for you.
+- Back-end framework which is suitable for you (Nest.js or Express.js).
 - Typescript is a must for both front-end and back-end (frameworks, which doesn't support Typescript are not allowed).
-- You are allowed to use for backend choice from JS, TS, express or NestJs.
 - Use MongoDB or PostgreSQL for data storage.
+- Code quality checkers are required (at least ESLint and Prettier)
 > Stack requirements mentioned above are obligatory to follow. Other technologies and patterns are free of your choice.  
+
+## Extra points - optional
+- Add github actions to run code quality checks for frontend and backend
+- Provide a Dockerfile for frontend and backend
 
 ## Requirements
 1. Each visitor is allowed to create/update/delete boards (implement UX/UI on your own).
@@ -22,7 +26,7 @@
 What will we assess:
 - workability: how your application works;
 - project structure: how you structure your files;
-- code quality: how you write clean, readable code (feel free to install and use ESLint, Prettier and spell checker (VS Code extension) are required);
+- code quality: how you write clean, readable code;
 - knowledge of technologies and their ecosystem: how you compose and use libraries together;
 - testing: how you can test your code;
 
